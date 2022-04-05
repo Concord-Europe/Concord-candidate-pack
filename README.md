@@ -23,12 +23,6 @@ Development team members will be responsible for the following:
    
 Codebase is C++. Our client uses Oracle for their enterprise and application databases.  
 
-We offer: 
-
-- Competitive salary 
-- A culture and friendly atmosphere that can't be beat 
-- Opportunity to work with a team of strong, high-performing international team of leading experts 
-- Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars 
 
 <br />
 
@@ -56,13 +50,6 @@ Required Qualifications:
 - Experience in testing, maintaining, and/or deploying software products.
 - Experience in technical design of software products and components.
 
-
-We offer:
-
-- Competitive salary.
-- A culture and friendly atmosphere that can't be beat.
-- Opportunity to work with a team of strong, high-performing international team of leading experts.
-- Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars.
 
 <br />
 
@@ -128,7 +115,7 @@ Soft skills:
 - Collaborative personality and team spirit 
 - Willingness to step up when needed 
   
- <br />
+------------------
 
 Why choose Concord: 
 
