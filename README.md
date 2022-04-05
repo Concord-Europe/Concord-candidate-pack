@@ -129,4 +129,6 @@ Why choose Concord Europe:
 - Competitive salary and bonuses 
 - A culture and friendly atmosphere that can't be beat 
 - Opportunity to work with a team of strong, high-performing international team of leading experts in the fields of AI, Advanced Analytics and Cloud-based product development 
-- Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars. 
+- Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars.
+
+Send us your resume to jobs@concordeu.com. 
