@@ -26,7 +26,7 @@ Codebase is C++. Our client uses Oracle for their enterprise and application dat
 
 <br />
 
-🧑‍🔧 Backend Developer
+👨‍🔧🔧 Backend Developer
 ------------------
 
 Currently we are looking for a Back-end Developers, with interest in learning Scala, to join our team of professionals.
