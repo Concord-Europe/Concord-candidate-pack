@@ -2,7 +2,7 @@
 # Open Positions at Concord EU
 
 <div id="header" align="center">
-  <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/Open%20positions.jpg"/> 
+  <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/Join%20our%20team.jpg"/> 
 </div>
 
 👨‍🏭 C++ Developer
