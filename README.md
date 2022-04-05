@@ -28,7 +28,7 @@ Codebase is C++. Our client uses Oracle for their enterprise and application dat
 
 
 <br />
---------------
+
 👨‍🔧 `Backend Developer`
 ------------------------
 
@@ -53,7 +53,7 @@ Currently we are looking for a Back-end Developers, with interest in learning Sc
 
 
 <br />
---------------
+
 👷 `Lead Engineer`
 ------------------
 
@@ -89,7 +89,7 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 - Good communication skills - verbal and written. Ability to communicate to internal and external stakeholders
 
 <br />
---------------
+
 👨‍🍳 `DevOps Engineer`
 ---------------------
 
