@@ -5,7 +5,7 @@
   <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/Join%20our%20team.jpg"/> 
 </div>
 
-# 👨‍🏭 C++ Developer
+👨‍🏭 C++ Developer
 --------------
 
 One of our clients, which is an international electronics distributor, is undergoing digital modernization initiatives to replace their legacy ERP, WinDECS.  
