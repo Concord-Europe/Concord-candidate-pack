@@ -108,16 +108,16 @@ We are building a financial software solution for a USA customer, which is desig
 
 :heavy_check_mark: Azure Cloud 
 :heavy_check_mark: Azure DevOps 
-:heavy_check_mark: Terraform 
-:heavy_check_mark: K8s / helm 
+:heavy_check_mark: Terraform. 
+:heavy_check_mark: K8s / helm. 
   
 
 ## Soft skills: 
 
-:heavy_check_mark: Punctuality 
-:heavy_check_mark: Ability to work with high stakes 
-:heavy_check_mark: Collaborative personality and team spirit 
-:heavy_check_mark: Willingness to step up when needed 
+:heavy_check_mark: Punctuality. 
+:heavy_check_mark: Ability to work with high stakes. 
+:heavy_check_mark: Collaborative personality and team spirit. 
+:heavy_check_mark: Willingness to step up when needed. 
   
 <div id="header" align="center">
   <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/our%20values.jpg"/> 
@@ -126,9 +126,9 @@ We are building a financial software solution for a USA customer, which is desig
 Why choose Concord Europe: 
 -------------------
 
-:heavy_check_mark: Competitive salary and bonuses 
-:heavy_check_mark: A culture and friendly atmosphere that can't be beat 
-:heavy_check_mark: Opportunity to work with a team of strong, high-performing international team of leading experts in the fields of AI, Advanced Analytics and Cloud-based product development 
+:heavy_check_mark: Competitive salary and bonuses. 
+:heavy_check_mark: A culture and friendly atmosphere that can't be beat. 
+:heavy_check_mark: Opportunity to work with a team of strong, high-performing international team of leading experts in the fields of AI, Advanced Analytics and Cloud-based product development. 
 :heavy_check_mark: Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars.
 
 Send us your resume to jobs@concordeu.com. 
