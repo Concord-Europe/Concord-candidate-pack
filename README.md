@@ -119,7 +119,9 @@ Soft skills:
 - Collaborative personality and team spirit 
 - Willingness to step up when needed 
   
-------------------
+<div id="header" align="center">
+  <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/our%20values.jpg"/> 
+</div>
 
 Why choose Concord Europe: 
 -------------------
