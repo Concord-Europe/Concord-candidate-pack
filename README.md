@@ -13,7 +13,7 @@ One of our clients, which is an international electronics distributor, is underg
 WinDECS is built in C++ and has grown organically over the past 20 years with varying degrees of governance. The client’s Teams assess and design modern solution, Concord has been engaged to aid in production support activities for WinDECS as well as the mitigation of existing technical debt to aid in the upcoming migration to the upcoming modern application by the client’s Sales A team, which oversees the Order Entry and Sales modules for business partners.  
 
 
-<mark>Development team members will be responsible for the following:<mark>  
+<mark>Development team members will be responsible for the following:</mark>  
 
 - Triage and analysis of production issues  
 - Triage and analysis of backlog items dictated by the product owner  
