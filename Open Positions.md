@@ -86,7 +86,7 @@ We offer:
 
 - Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars.
 
-<br>
+</br>
 
 Lead Engineer
 
