@@ -95,13 +95,19 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 ## Tech stack:
 
 
-- Experience working with modern JS libraries like React JS
-- Knows JavaScript and TypeScript
-- State management library skills like Redux
-- Experience writing APIs with NodeJS
-- Git and GitHub knowledge
-- Understand performance and optimization techniques
-- Understanding of Agile and Scrum development
+✔️ Experience working with modern JS libraries like React JS
+
+✔️ Knows JavaScript and TypeScript
+
+✔️ State management library skills like Redux
+
+✔️ Experience writing APIs with NodeJS
+
+✔️ Git and GitHub knowledge
+
+✔️ Understand performance and optimization techniques
+
+✔️ Understanding of Agile and Scrum development
 
 
 
