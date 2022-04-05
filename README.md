@@ -133,5 +133,5 @@ We are building a financial software solution for a USA customer, which is desig
 
 ⭐ Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars
 
-
+-------------------
 Send us your resume to jobs@concordeu.com. 
