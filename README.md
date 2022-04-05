@@ -117,7 +117,7 @@ Soft skills:
   
 ------------------
 
-Why choose Concord: 
+Why choose Concord Europe: 
 -------------------
 
 - Competitive salary and bonuses 
