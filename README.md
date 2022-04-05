@@ -36,7 +36,7 @@ Codebase is C++. Our client uses Oracle for their enterprise and application dat
 Currently we are looking for a Back-end Developers, with interest in learning Scala, to join our team of professionals.
 
 
-## Main responsibilities:
+Main responsibilities:
 
 ✔️ Design and develop authentication and authorization solutions for both Web and mobile applications
 ✔️ Participate in the full software development lifecycle, including development, code reviews, testing and production deployment
