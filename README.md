@@ -92,7 +92,7 @@ Skills:
 
 <br />
 
-🤯 DevOps Engineer
+👨‍🍳 DevOps Engineer
 ----------------
 
 
