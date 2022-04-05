@@ -8,9 +8,9 @@
 👨‍🏭 C++ Developer
 --------------
 
-<div class="container">
+
   <h1 class="neon">Everything you want is<br>on the other side of fear</h1>
-</div>
+
 
 One of our clients, which is an international electronics distributor, is undergoing digital modernization initiatives to replace their legacy ERP, WinDECS.  
 
