@@ -1,6 +1,10 @@
 
 # Open Positions at Concord EU
 
+<div id="header" align="center">
+  <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/Open%20positions.jpg" width="100"/>
+</div>
+
 👨‍🏭 C++ Developer
 --------------
 
