@@ -18,17 +18,24 @@ WinDECS is built in C++ and has grown organically over the past 20 years with va
 ````
 ✔️ Triage and analysis of production issues
 ````
+````
 ✔️ Triage and analysis of backlog items dictated by the product owner 
+````
 ````
 ✔️ Solution development and bug fix development 
 ````
+````
 ✔️ Promotion of working code into production  
+````
 ````
 ✔️ Update component libraries and code repositories to ensure continuity and reusability of code
 ````
+````
 ✔️ Analysis and planning for upcoming enhancements coming from the client’s modernization efforts  
 ````
+````
 ✔️ Participates in code reviews to ensure products are held to high standards and adhere to style guides
+````
 ````
 ✔️ Other duties as required  
 ````  
