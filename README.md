@@ -117,6 +117,8 @@ We are building a financial software solution for a USA customer, which is desig
 - Ability to work with high stakes 
 - Collaborative personality and team spirit
 - Willingness to step up when needed 
+
+
   
 <div id="header" align="center">
   <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/our%20values.jpg"/> 
