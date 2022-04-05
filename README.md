@@ -15,7 +15,11 @@ WinDECS is built in C++ and has grown organically over the past 20 years with va
 
 ## Development team members will be responsible for the following: 
 
+````
+```
 ✔️ Triage and analysis of production issues
+```
+````
 
 ✔️ Triage and analysis of backlog items dictated by the product owner 
 
