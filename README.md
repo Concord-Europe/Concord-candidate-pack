@@ -8,6 +8,10 @@
 👨‍🏭 C++ Developer
 --------------
 
+<div class="container">
+  <h1 class="neon">Everything you want is<br>on the other side of fear</h1>
+</div>
+
 One of our clients, which is an international electronics distributor, is undergoing digital modernization initiatives to replace their legacy ERP, WinDECS.  
 
 WinDECS is built in C++ and has grown organically over the past 20 years with varying degrees of governance. The client’s Teams assess and design modern solution, Concord has been engaged to aid in production support activities for WinDECS as well as the mitigation of existing technical debt to aid in the upcoming migration to the upcoming modern application by the client’s Sales A team, which oversees the Order Entry and Sales modules for business partners.  
