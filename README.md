@@ -38,6 +38,13 @@ Currently we are looking for a Back-end Developers, with interest in learning Sc
 
 ## Main responsibilities:
 
+✔️ Design and develop authentication and authorization solutions for both Web and mobile applications
+✔️ Participate in the full software development lifecycle, including development, code reviews, testing and production deployment
+✔️ Work with product managers to understand the features, do technical assessment and costing, design, code, test and deploy
+✔️ Work with technical leads and security team to understand technical constraints and incorporate them into the design
+✔️ Support live-site with production debugging and track down causes and fix them in systematic ways
+✔️ Perform code review of the code produced by other engineers in the team
+
 
 ✔️ Design and develop authentication and authorization solutions for both Web and mobile applications
 ✔️ Participate in the full software development lifecycle, including development, code reviews, testing and production deployment
