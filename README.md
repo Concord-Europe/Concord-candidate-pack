@@ -118,6 +118,7 @@ Soft skills:
 ------------------
 
 Why choose Concord: 
+-------------------
 
 - Competitive salary and bonuses 
 - A culture and friendly atmosphere that can't be beat 
