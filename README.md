@@ -77,7 +77,7 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 
 
 ✔️ Experience working with modern JS libraries like React JS
-✔️ Knows JavaScript and TypeScript
+✔️ Knows [JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) and TypeScript
 ✔️ State management library skills like Redux
 ✔️ Experience writing APIs with NodeJS
 ✔️ Git and GitHub knowledge
