@@ -159,7 +159,9 @@ We are building a financial software solution for a USA customer, which is desig
   <img src="https://github.com/Concord-Europe/Open-Positions/blob/main/our%20values.jpg"/> 
 </div>
 
+````
 ❓ Why choose Concord Europe: 
+````
 -------------------
 
 ⭐ Competitive salary and bonuses 
