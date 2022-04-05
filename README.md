@@ -51,9 +51,7 @@ Currently we are looking for a Back-end Developers, with interest in learning Sc
 
 
 ✔️ Experience with software development in one or more high-level general purpose programming languages (e.g. Java, Scala, C#, Python, Golang, etc)
-
 ✔️ Experience in testing, maintaining, and/or deploying software products
-
 ✔️ Experience in technical design of software products and components
 
 
