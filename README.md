@@ -85,7 +85,6 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 
 ## Skills:
 
-
 - Good time management skills
 - Works well under pressure
 - Good communication skills - verbal and written. Ability to communicate to internal and external stakeholders
