@@ -36,7 +36,7 @@ A culture and friendly atmosphere that can't be beat
 Opportunity to work with a team of strong, high-performing international team of leading experts 
 Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars 
 
-<br/>
+<br>
 
 Backend Developer
 
@@ -88,7 +88,7 @@ We offer:
 
 - Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars.
 
-<br/>
+<br>
 
 Lead Engineer
 
@@ -153,7 +153,7 @@ A culture and friendly atmosphere that can't be beat
 Opportunity to work with a team of strong, high-performing international team of leading experts in the fields of AI, Advanced Analytics and Cloud-based product development 
 Excellent benefits: additional health insurance, access to Multisport card, free home Internet, Takeaway vouchers, birthday bonuses, additional courses and seminars. 
 
-<br/>
+<br>
 
 DevOps Engineer
 
