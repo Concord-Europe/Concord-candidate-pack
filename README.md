@@ -113,10 +113,13 @@ We are building a financial software solution for a USA customer, which is desig
 
 ## Soft skills: 
 
-- Punctuality 
-- Ability to work with high stakes 
-- Collaborative personality and team spirit
-- Willingness to step up when needed 
+✔️ Punctuality 
+
+✔️ Ability to work with high stakes 
+
+✔️ Collaborative personality and team spirit
+
+✔️ Willingness to step up when needed 
 
 
   
