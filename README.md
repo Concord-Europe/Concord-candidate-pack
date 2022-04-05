@@ -1,4 +1,3 @@
-# Open-Positions
 
 # Open Positions at Concord EU
 
