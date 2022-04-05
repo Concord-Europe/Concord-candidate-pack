@@ -13,7 +13,7 @@ One of our clients, which is an international electronics distributor, is underg
 WinDECS is built in C++ and has grown organically over the past 20 years with varying degrees of governance. The client’s Teams assess and design modern solution, Concord has been engaged to aid in production support activities for WinDECS as well as the mitigation of existing technical debt to aid in the upcoming migration to the upcoming modern application by the client’s Sales A team, which oversees the Order Entry and Sales modules for business partners.  
 
 
-<mark>Development team members will be responsible for the following:</mark>  
+##Development team members will be responsible for the following: 
 
 - Triage and analysis of production issues  
 - Triage and analysis of backlog items dictated by the product owner  
@@ -36,7 +36,7 @@ Codebase is C++. Our client uses Oracle for their enterprise and application dat
 Currently we are looking for a Back-end Developers, with interest in learning Scala, to join our team of professionals.
 
 
-Main responsibilities:
+##Main responsibilities:
 
 
 - Design and develop authentication and authorization solutions for both Web and mobile applications.
@@ -47,7 +47,7 @@ Main responsibilities:
 - Perform code review of the code produced by other engineers in the team.
 
 
-Required Qualifications:
+##Required Qualifications:
 
 
 - Experience with software development in one or more high-level general purpose programming languages (e.g. Java, Scala, C#, Python, Golang, etc)
@@ -63,7 +63,7 @@ Required Qualifications:
 Currently we are looking for a Tech Lead to join our team of professionals. The project you will be working on is for a big healthcare company.
 
 
-Main responsibilities:
+##Main responsibilities:
 
 
 - Guide the team in user stories assignment to ensure work complexity and team members experience are considered.
@@ -74,7 +74,7 @@ Main responsibilities:
 - Propose and communicate potential improvements.
 
 
-Tech stack:
+##Tech stack:
 
 
 - Experience working with modern JS libraries like React JS.
@@ -87,7 +87,7 @@ Tech stack:
 
 
 
-Skills:
+##Skills:
 
 
 - Good time management skills.
@@ -100,11 +100,11 @@ Skills:
 ----------------
 
 
-About the project:  
+##About the project:  
 
 We are building a financial software solution for a USA customer, which is designed to extract data from multiple sources, such as data lakes and factories, as well as SQL databases. It is then converted into meaningful information, using complex calculations, and loaded into a single database; designed to be the source database for the end product. 
 
-Key requirements: 
+##Key requirements: 
 
 - Azure Cloud 
 - Azure DevOps 
@@ -112,7 +112,7 @@ Key requirements:
 - K8s / helm 
   
 
-Soft skills: 
+##Soft skills: 
 
 - Punctuality 
 - Ability to work with high stakes 
