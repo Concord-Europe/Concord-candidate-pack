@@ -15,30 +15,14 @@ WinDECS is built in C++ and has grown organically over the past 20 years with va
 
 ## Development team members will be responsible for the following: 
 
-```
-✔️ Triage and analysis of production issues
-```
-```
-✔️ Triage and analysis of backlog items dictated by the product owner 
-```
-```
-✔️ Solution development and bug fix development 
-```
-```
-✔️ Promotion of working code into production  
-```
-```
-✔️ Update component libraries and code repositories to ensure continuity and reusability of code
-```
-```
-✔️ Analysis and planning for upcoming enhancements coming from the client’s modernization efforts  
-```
-```
-✔️ Participates in code reviews to ensure products are held to high standards and adhere to style guides
-```
-```
-✔️ Other duties as required  
-``` 
+- Triage and analysis of production issues
+- Triage and analysis of backlog items dictated by the product owner 
+- Solution development and bug fix development 
+- Promotion of working code into production  
+- Update component libraries and code repositories to ensure continuity and reusability of code
+- Analysis and planning for upcoming enhancements coming from the client’s modernization efforts  
+- Participates in code reviews to ensure products are held to high standards and adhere to style guides
+- Other duties as required   
    
 Codebase is C++. Our client uses Oracle for their enterprise and application databases.  
 
@@ -52,36 +36,21 @@ Currently we are looking for a Back-end Developers, with interest in learning Sc
 
 
 ## Main responsibilities:
-```
-✔️ Design and develop authentication and authorization solutions for both Web and mobile applications ````
-```
-```
-✔️ Participate in the full software development lifecycle, including development, code reviews, testing and production deployment
-```
-```
-✔️ Work with product managers to understand the features, do technical assessment and costing, design, code, test and deploy
-```
-```
-✔️ Work with technical leads and security team to understand technical constraints and incorporate them into the design
-```
-```
-✔️ Support live-site with production debugging and track down causes and fix them in systematic ways
-```
-```
-✔️ Perform code review of the code produced by other engineers in the team
-```
+
+- Design and develop authentication and authorization solutions for both Web and mobile applications ````
+- Participate in the full software development lifecycle, including development, code reviews, testing and production deployment
+- Work with product managers to understand the features, do technical assessment and costing, design, code, test and deploy
+- Work with technical leads and security team to understand technical constraints and incorporate them into the design
+- Support live-site with production debugging and track down causes and fix them in systematic ways
+- Perform code review of the code produced by other engineers in the team
+
 
 ## Required Qualifications:
 
-```
-✔️ Experience with software development in one or more high-level general purpose programming languages (e.g. Java, Scala, C#, Python, Golang, etc)
-```
-```
-✔️ Experience in testing, maintaining, and/or deploying software products
-```
-```
-✔️ Experience in technical design of software products and components
-```
+- Experience with software development in one or more high-level general purpose programming languages (e.g. Java, Scala, C#, Python, Golang, etc)
+- Experience in testing, maintaining, and/or deploying software products
+- Experience in technical design of software products and components
+
 
 <br />
 
@@ -93,61 +62,34 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 
 ## Main responsibilities:
 
-```
-✔️ Guide the team in user stories assignment to ensure work complexity and team members experience are considered
-```
-```
-✔️ Collaborate with the other team members on daily basis, helping and guiding with technical questions
-```
-```
-✔️ Cross-teams communication with other teams
-```
-```
-✔️ Mentoring the team leading to completing assignments
-```
-```
-✔️ Coaching junior members in the team to help them get unstuck
-```
-```
-✔️ Propose and communicate potential improvements
-```
+
+- Guide the team in user stories assignment to ensure work complexity and team members experience are considered
+- Collaborate with the other team members on daily basis, helping and guiding with technical questions
+- Cross-teams communication with other teams
+- Mentoring the team leading to completing assignments
+- Coaching junior members in the team to help them get unstuck
+- Propose and communicate potential improvements
+
 
 ## Tech stack:
 
-```
-✔️ Experience working with modern JS libraries like React JS
-```
-```
-✔️ Knows JavaScript and TypeScript
-```
-```
-✔️ State management library skills like Redux
-```
-```
-✔️ Experience writing APIs with NodeJS
-```
-```
-✔️ Git and GitHub knowledge
-```
-```
-✔️ Understand performance and optimization techniques
-```
-```
-✔️ Understanding of Agile and Scrum development
-```
+- Experience working with modern JS libraries like React JS
+- Knows JavaScript and TypeScript
+- State management library skills like Redux
+- Experience writing APIs with NodeJS
+- Git and GitHub knowledge
+- Understand performance and optimization techniques
+- Understanding of Agile and Scrum development
+
 
 
 ## Skills:
 
-```
-✔️ Good time management skills
-```
-```
-✔️ Works well under pressure
-```
-```
-✔️ Good communication skills - verbal and written. Ability to communicate to internal and external stakeholders
-```
+
+- Good time management skills
+- Works well under pressure
+- Good communication skills - verbal and written. Ability to communicate to internal and external stakeholders
+
 <br />
 
 👨‍🍳 `DevOps Engineer`
@@ -159,32 +101,20 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 We are building a financial software solution for a USA customer, which is designed to extract data from multiple sources, such as data lakes and factories, as well as SQL databases. It is then converted into meaningful information, using complex calculations, and loaded into a single database; designed to be the source database for the end product. 
 
 ## Key requirements: 
-```
-✔️ Azure Cloud 
-```
-```
-✔️ Azure DevOps 
-```
-```
-✔️ Terraform. 
-```
-```
-✔️ K8s / helm. 
-```
+
+- Azure Cloud 
+- Azure DevOps 
+- Terraform. 
+- K8s / helm. 
+
 
 ## Soft skills: 
-```
-✔️ Punctuality 
-```
-```
-✔️ Ability to work with high stakes 
-```
-```
-✔️ Collaborative personality and team spirit
-```
-```
-✔️ Willingness to step up when needed 
-```
+
+- Punctuality 
+- Ability to work with high stakes 
+- Collaborative personality and team spirit
+- Willingness to step up when needed 
+
 
   
 <div id="header" align="center">
