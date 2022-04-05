@@ -77,9 +77,7 @@ Currently we are looking for a Tech Lead to join our team of professionals. The 
 
 
 - Experience working with modern JS libraries like React JS
-- Knows ![image](https://user-images.githubusercontent.com/102729858/161839216-a99929aa-5ee2-491f-ac82-20c60dbdbf4f.png)
- and ![image](https://user-images.githubusercontent.com/102729858/161839158-ba5ed522-35b1-488c-992c-5699c7ecbfb9.png)
-
+- Knows JavaScript and TypeScript
 - State management library skills like Redux
 - Experience writing APIs with NodeJS
 - Git and GitHub knowledge
