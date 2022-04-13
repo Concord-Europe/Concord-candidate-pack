@@ -113,6 +113,56 @@ We are building a financial software solution for a USA customer, which is desig
 - Collaborative personality and team spirit
 - Willingness to step up when needed 
 
+<br />
+
+:neckbeard: `Angular developer`
+---------------------
+
+Currently, we are looking for an Angular developer to join our team of professionals. The project you will be working on is for a big US multinational healthcare company. They offer health care products and insurance services. The client has a unique on-demand health offering, but the current claim engine has key functionality and scalability issues and hence unable to meet future aggressive growth demand. The ecosystem is leveraging many vendor applications which interact 
+via multiple integration points and different patterns causing sync up & data issues leading to sub-optimal claims capability implementation. Based on an extensive study a platform was recommended as the target claims platform which would meet the product's future needs and will beintegrated. 
+
+### Tech Stack
+
+- Angular2 +
+- HTML5
+- CSS
+- Bootstrap
+- TypeScript
+- JavaScript
+
+<br />
+
+:godmode: `Full-stack developer`
+---------------------
+Currently, we are looking for a Full-stack developer to join our team of professionals. The project you will be working on is for a big healthcare company.  
+
+### Experience:
+- Experience working with modern JS libraries like React JS 
+- Knowledge of JavaScript and TypeScript 
+- State management library skills like Redux 
+- NoSQL database knowledge like MongoDB 
+- Experience writing APIs with NodeJS 
+- Git and GitHub knowledge 
+- Familiar with automated testing and can write unit tests 
+- Experience with infrastructure and CI/CD pipeline tools like Jenkins and OpenShift 
+- Google Cloud is a plus 
+- Understand performance and optimization techniques 
+- Can work individually as well as collaborate between multiple teams 
+- Understanding of Agile and Scrum development
+
+<br />
+
+:robot: `Back-end developer`
+---------------------
+Currently, we are looking for a Back-end developer with eager to learn Scala to join our team of professionals. 
+
+Programming languages are at the heart of today’s technologies, and developers are as integral to progress as ever before. In the software development world, Scala combines object-oriented and functional programming in one concise, high-level language and has the reputation of being complex to learn. Research shows Scala is becoming a more sought-after technology.
+
+Scala is designed to be a better language, shedding the aspects of Java considered restrictive, as a result, it is harder to learn, but the results are much cleaner and well-organized code, easier to use, and increase in productivity. Scala incorporates both object-oriented and functional programming concepts into a concise, logical, and powerful language. 
+
+Mastering a new skill in this day and age can be difficult, especially when you’re trying to find a work-life balance. Therefore, we are offering an opportunity that includes a long-term, full-time position, learning a new programming language while you simultaneously receive a competitive salary; one that you will be happy with. During the initial interview stage, we will be evaluating your knowledge based on your strongest skill as noted in your curriculum vitae.
+
+If you have the desire to learn new technology, you are highly analytical, and good at solving algorithmic problems, we can offer you a place to get yourself familiar and ultimately master one of the most in-demand technologies in the tech world right now. If you have the willingness to progress your career, we can offer you a safe place to do exactly that!
 
   
 <div id="header" align="center">
